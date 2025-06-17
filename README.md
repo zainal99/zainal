@@ -1,4 +1,4 @@
-# React Portfolio
+# Portfolio
 
 This is a professional Web3 portfolio built with React and Vite.
 
